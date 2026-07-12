@@ -47,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AnujTiwari940/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
