@@ -29,6 +29,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AnujTiwari940/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnujTiwari940/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0009-palindrome-number](https://github.com/AnujTiwari940/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AnujTiwari940/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnujTiwari940/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
