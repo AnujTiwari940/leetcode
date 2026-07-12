@@ -11,6 +11,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/AnujTiwari940/leetcode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/AnujTiwari940/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/AnujTiwari940/leetcode/tree/master/0455-assign-cookies) |
 ## Binary Search
@@ -26,10 +27,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/AnujTiwari940/leetcode/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/AnujTiwari940/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/AnujTiwari940/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
 ## Sorting
