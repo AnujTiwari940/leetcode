@@ -21,6 +21,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AnujTiwari940/leetcode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AnujTiwari940/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/AnujTiwari940/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AnujTiwari940/leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/AnujTiwari940/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnujTiwari940/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
