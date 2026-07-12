@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AnujTiwari940/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AnujTiwari940/leetcode/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/AnujTiwari940/leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AnujTiwari940/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/AnujTiwari940/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/AnujTiwari940/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -70,6 +72,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AnujTiwari940/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AnujTiwari940/leetcode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
