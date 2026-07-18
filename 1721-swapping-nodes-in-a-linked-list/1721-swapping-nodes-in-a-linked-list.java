@@ -14,13 +14,15 @@ class Solution {
         ListNode temp1=head;
         for(int i=1;i<k;i++){
             temp1=temp1.next;
-        }        
+        }
+
         //getting kth node value from ending
         ListNode fast=head;
         ListNode slow=head;
         for(int i=1;i<=k;i++){
             fast=fast.next;
         }
+
         while(fast!=null){
             slow=slow.next;
             fast=fast.next;
