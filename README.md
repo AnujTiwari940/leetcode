@@ -49,6 +49,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AnujTiwari940/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnujTiwari940/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AnujTiwari940/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Hash Table
